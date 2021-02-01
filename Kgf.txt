@@ -1,2 +1,4 @@
 git init
 git config -global
+
+test jenkins
